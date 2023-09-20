@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "ender_core",
+    "ender_simulation",
+    "ender_cli"
+]
