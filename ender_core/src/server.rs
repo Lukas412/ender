@@ -1,4 +1,5 @@
 use crate::chunks::FullChunk;
+use crate::player::Player;
 
 pub struct Server {
     chunks: Vec<FullChunk>,
